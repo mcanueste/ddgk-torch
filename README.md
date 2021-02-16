@@ -1,2 +1,2 @@
-# ddgk-torch
-Implementation of DDGK using PyTorch
+# ddgk-pytorch
+Deep Divergence Graph Kernels implementation in PyTorch

@@ -1,3 +1,7 @@
+# ⚠️ This project is unmaintained ⚠️
+
+I am no longer maintaining this project since this was part of a research project during my masters studies. Feel free to fork and modify it to suit your needs, but can't guarantee that it will work out of the box.
+
 # ddgk-torch
 Implementation of "DDGK: Learning Graph Representations for Deep Divergence
 Graph Kernels" in PyTorch.
